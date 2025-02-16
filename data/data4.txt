@@ -1,0 +1,14 @@
+Company Employee Data (India)
+==================================================
+ID        Name                Department     Job Title                Email                              Phone          Location       
+------------------------------------------------------------------------------------------------------------------------
+EMP1021   Ethan Ramirez       IT             Network Engineer         ethan.ramirez@company.com          +91 98765 43210 Mumbai         
+EMP1022   Harper Nelson       HR             Training Coordinator     harper.nelson@company.com          +91 87654 32109 Delhi          
+EMP1023   Mason Carter        Finance        Tax Specialist           mason.carter@company.com           +91 76543 21098 Bangalore      
+EMP1024   Ella Mitchell       Marketing      SEO Analyst              ella.mitchell@company.com          +91 65432 10987 Hyderabad      
+EMP1025   Lucas Perez         IT             DevOps Engineer          lucas.perez@company.com            +91 54321 09876 Chennai        
+EMP1026   Amelia Roberts      Operations     Supply Chain Manager     amelia.roberts@company.com         +91 43210 98765 Kolkata        
+EMP1027   Henry Lewis         Sales          Account Manager          henry.lewis@company.com            +91 32109 87654 Pune           
+EMP1028   Evelyn Walker       Admin          Facility Manager         evelyn.walker@company.com          +91 21098 76543 Ahmedabad      
+EMP1029   Alexander Hill      Support        Helpdesk Technician      alexander.hill@company.com         +91 10987 65432 Jaipur         
+EMP1030   Sofia Torres        Legal          Compliance Officer       sofia.torres@company.com           +91 09876 54321 Lucknow        
